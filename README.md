@@ -1,5 +1,5 @@
 # Golang-zero-to-one
-This repo containes the code and documents to get started with Go (Golang) and learn by buidling projects
+This repo containes the docs, tutorials and projects to get started with Go (Golang) and learn by buidling projects.
 # About Go
 Fans of Go (called gophers) describe Go as having the expressiveness of dynamic languages like Python or Ruby, with the performance of compiled languages like C or C++.
 
